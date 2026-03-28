@@ -8,7 +8,7 @@ My own macropad for gaming and video editing, It'll have 16 keys(4by4) and one r
 <ul>
 <li>16x Cherry MX Switches <br>
 <li>1x XIAO RP2040 <br>
-<li>6x Blank DSA Keycaps <br>
+<li>16x Blank DSA Keycaps <br>
 <li>4x M3x16 Bolt <br>
 <li>4x M3 Heatset <br>
 <li>1x EC11 Rotary Encoder</li>  
